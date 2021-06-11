@@ -3,11 +3,15 @@
 
 <head>
      <title>HTML Application</title>
+<<<<<<< HEAD
      123456
+	 <link href="css/site.css" rel="stylesheet">
+=======
       <img src="img/tweetThis.svg" />
 
      
      <link href="css/site.css" rel="stylesheet">
+>>>>>>> master
 </head>
 <head>
      <title>CSS one Application</title>
